@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      '/api': 'https://employeewsbackend.onrender.com',
+      '/api': 'https://employee-management-backend-v2-0.onrender.com',
     },
   },
 })
