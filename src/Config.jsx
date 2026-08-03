@@ -1,2 +1,2 @@
 // config.js
-export const API_URL = import.meta.env.VITE_REACT_APP_API_URL;
+export const API_URL = "https://employee-management-backend-v2-0.onrender.com";
